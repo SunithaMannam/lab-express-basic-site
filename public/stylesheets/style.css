@@ -1,0 +1,25 @@
+body {
+  background-color: darksalmon;
+}
+
+body h5 {
+  font-size: 25px;
+  margin: 20px;
+}
+
+.bg-about p {
+  padding: 50px;
+  font-size: 20px;
+}
+
+#photo-gal {
+  display: flex;
+  flex-direction: row;
+  flex-flow: row;
+}
+
+#photo-gal div {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
